@@ -17,7 +17,7 @@ ul {
 }
 
 body {
-	font-family: '幼圆', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 p {
@@ -480,7 +480,8 @@ footer a:hover {
 
 .send-to-home .back-to-home span {
 	display: inline-block;
-	font-size: 23px;
+	font-size: 26px;
+	font-family: "幼圆","宋体","黑体";
 	color: #fff;
 }
 
